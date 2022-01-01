@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotify_Android</string>
+    <string name="quote_text">Quote Text</string>
+    <string name="quote_author">Quote Author</string>
+</resources>
